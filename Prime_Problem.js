@@ -1,0 +1,1 @@
+// checl if 9 is prime number or not
